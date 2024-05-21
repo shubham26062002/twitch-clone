@@ -14,7 +14,7 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: 'Streamtech - Watch and Stream Live Content Worldwide',
-  description: 'treamtech offers a revolutionary live streaming experience. Watch and stream your favorite content effortlessly. Join a vibrant community of creators and viewers today!',
+  description: 'Streamtech offers a revolutionary live streaming experience. Watch and stream your favorite content effortlessly. Join a vibrant community of creators and viewers today!',
   keywords: 'Live streaming platform, Video streaming service, Streamtech, Watch live content, Stream live events, Live video streaming, Online streaming platform, Watch live broadcasts, Streamtech community, Live gaming streams, Music livestreams, Educational streams, Entertainment streaming, Live sports events, Streamtech channels, Broadcasting platform, Streamtech network, Live chat feature, Explore live content, Discover new streams, Interactive live experiences, Real-time streaming, Streamtech app, High-quality streaming, Live stream aggregation, Streamtech creators, Viewer engagement, Trending live streams, Personalized recommendations, Streamtech membership, Streamtech subscriptions, Streamtech events calendar, Streamtech highlights, Streamtech on-demand, Streamtech originals, Streamtech community guidelines, Streamtech content policies, Streamtech privacy settings, Streamtech monetization options, Streamtech partnership opportunities',
 }
 
